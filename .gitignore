@@ -1,0 +1,26 @@
+#########
+#compiled source#
+*.a
+*.o
+*.so
+
+#######
+# packages #
+*.dmg
+*.iso
+*.tar
+*.swp
+
+#####
+# OS generated files #
+.DS_Store*
+
+########
+node_modules/
+jspm_packages/
+
+.npm
+
+.tgz
+
+.cache
